@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon-Two sum Unique Pairs", "Amazon-Two sum Unique Pairs\Amazon-Two sum Unique Pairs.csproj", "{33B72951-C187-43F6-A43E-39574897B06E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33B72951-C187-43F6-A43E-39574897B06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B72951-C187-43F6-A43E-39574897B06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B72951-C187-43F6-A43E-39574897B06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B72951-C187-43F6-A43E-39574897B06E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFC3888E-1592-45D4-A131-FE1777C633BB}
+	EndGlobalSection
+EndGlobal
